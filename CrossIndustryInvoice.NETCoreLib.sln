@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CII_D16B.NETCoreLib", "CIID16B.NETCoreLib\CII_D16B.NETCoreLib.csproj", "{730B386D-2117-4B43-8A22-3B04C0A3DA58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CII_D20.NETCoreLib", "CIID20.NETCoreLib\CII_D20.NETCoreLib.csproj", "{EF4B59DA-4CB1-46E6-A801-62784C6F42DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binaries", "Binaries", "{AC8C8ABD-DCD2-49A2-82CE-4DE1920268C4}"
+	ProjectSection(SolutionItems) = preProject
+		Binaries\CommonInterfaces.NETCoreLib.dll = Binaries\CommonInterfaces.NETCoreLib.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730B386D-2117-4B43-8A22-3B04C0A3DA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730B386D-2117-4B43-8A22-3B04C0A3DA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730B386D-2117-4B43-8A22-3B04C0A3DA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730B386D-2117-4B43-8A22-3B04C0A3DA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4B59DA-4CB1-46E6-A801-62784C6F42DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4B59DA-4CB1-46E6-A801-62784C6F42DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4B59DA-4CB1-46E6-A801-62784C6F42DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4B59DA-4CB1-46E6-A801-62784C6F42DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49075149-CCFA-4BB2-969D-14347247A0E5}
+	EndGlobalSection
+EndGlobal

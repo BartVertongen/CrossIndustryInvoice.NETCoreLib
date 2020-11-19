@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Messages\Data\CrossIndustryInvoiceType100pD16B_Coupled-bf3c47c.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Examples\" />
+    <Folder Include="Information\" />
+    <Folder Include="XSDs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CommonInterfaces.NETCoreLib">
+      <HintPath>..\Binaries\CommonInterfaces.NETCoreLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

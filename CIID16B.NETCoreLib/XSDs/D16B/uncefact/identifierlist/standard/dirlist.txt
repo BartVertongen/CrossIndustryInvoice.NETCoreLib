@@ -1,0 +1,13 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 92A3-38DD
+
+ Directory of D:\COMPANY\Customers\Billit\Project_CII\XSD\D16B schemas 28SEP16\uncefact\identifierlist\standard
+
+07/05/2020  07:56    <DIR>          .
+07/05/2020  07:56    <DIR>          ..
+07/05/2020  07:56                 0 dirlist.txt
+28/09/2016  10:45            63.464 ISO_ISOTwo-letterCountryCode_SecondEdition2006.xsd
+28/09/2016  10:45           444.737 UNECE_FreightCostCode_4.xsd
+28/09/2016  10:45             5.842 UNECE_PaymentTermsDescriptionIdentifier_D16A.xsd
+               4 File(s)        514.043 bytes
+               2 Dir(s)  75.924.299.776 bytes free

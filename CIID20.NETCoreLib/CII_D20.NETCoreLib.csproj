@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Messages\Data\CrossIndustryInvoiceType100pD16B_Coupled-bf3c47c.cs" />
+    <Compile Remove="Messages\Data\CrossIndustryInvoiceType13pD16B.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Examples\" />
+    <Folder Include="Information\" />
+    <Folder Include="Messages\CodeLists\" />
+    <Folder Include="XSDs\" />
+  </ItemGroup>
+
+</Project>
